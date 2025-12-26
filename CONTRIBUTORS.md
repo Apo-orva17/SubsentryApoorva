@@ -64,3 +64,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Satwik Santosh
 - **GitHub:** https://github.com/DeadlySatwik
 - **About:** Sophomore at IIIT Allahabad (IIT2024084). Passionate about Cybersecurity, ML, and Full Stack Development, Competitive Programming."
+
+- **Name:** Apoorva Rupnarayan
+- **GitHub:** https://github.com/Apo-orva17
+- **About:** Pre final year student at National Institute of Technology Patna. 
